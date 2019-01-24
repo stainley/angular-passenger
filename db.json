@@ -1,1 +1,29 @@
-{}
+{
+  "passengers": [
+    {
+      "id": 1,
+      "fullname": "Bill Gates",
+      "checkedIn": true,
+      "baggage": "none"
+    },
+    {
+      "id": 2,
+      "fullname": "Estephy Ramirez",
+      "checkedIn": false,
+      "updated": 45564545454,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Carlos Sanz",
+      "checkedIn": true,
+      "baggage": "hold-only"
+    },
+    {
+      "id": 4,
+      "fullname": "Dulce Pascual",
+      "checkedIn": false,
+      "baggage": ""
+    }
+  ]
+}
